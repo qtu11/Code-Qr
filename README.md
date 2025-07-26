@@ -1,2 +1,2 @@
 # QR-Code
-# Link: https://ninhlam.github.io/QR-Code/
+# Link: https://code-qr-eight.vercel.app/
